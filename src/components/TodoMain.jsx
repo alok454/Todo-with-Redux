@@ -44,7 +44,7 @@ const TodoMain = () => {
           <h1>Todo</h1>
         </div>
 
-        <div className="w-[95%] flex flex-col sm:flex-row justify-around gap-x-2 gap-y-3">
+        <div className="w-[95%] flex flex-col sm:flex-row items-center justify-around gap-x-2 gap-y-3">
           <input
             type="text"
             className="w-[98%] sm:w-[80%] h-[35px] rounded text-black pl-2 text-xl"
